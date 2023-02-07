@@ -52,7 +52,7 @@
 
 ```
 *********
-* ##### Exercice 2: Travailler sur une branche secondaire. 
+* ##### Exercice 2: Cloner un projet. 
 
 ```bash
 
